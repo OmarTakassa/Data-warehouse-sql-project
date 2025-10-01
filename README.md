@@ -1,10 +1,10 @@
 # Data-warehouse-sql-project
 📌 Overview
 
--This project implements a Data Warehouse using Microsoft SQL Server.
--It is designed to support analytical reporting and business intelligence by integrating data from multiple sources into a central repository.
+- This project implements a Data Warehouse using Microsoft SQL Server.
+- It is designed to support analytical reporting and business intelligence by integrating data from multiple sources into a central repository.
 
--The warehouse follows a star schema approach, separating fact tables (measurable business data) from dimension tables (descriptive context).
+- The warehouse follows a star schema approach, separating fact tables (measurable business data) from dimension tables (descriptive context).
 
 🎯 Objectives
 
